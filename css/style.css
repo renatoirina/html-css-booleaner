@@ -55,3 +55,8 @@ strong{
     font-style: normal;
     font-weight: normal;
 }
+
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
