@@ -49,3 +49,9 @@ h3{
     position: relative;
     text-align: left;
 }
+
+strong{
+    background-color: yellow;
+    font-style: normal;
+    font-weight: normal;
+}
