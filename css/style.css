@@ -17,3 +17,35 @@ header{
     left: 0;
     margin-bottom: 10px;
 }
+
+h1{
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2{
+    color: rgba(128, 128, 128, 0.418);
+    font-size: 32px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 30;
+}
+
+em{
+    font-style: normal;
+    color: rgb(0, 217, 255);
+}
+
+h3{
+    color: rgba(128, 128, 128, 0.418);
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 20;
+}
+
+.photo-description{
+    position: relative;
+    text-align: left;
+}
