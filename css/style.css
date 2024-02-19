@@ -25,11 +25,11 @@ h1{
 }
 
 h2{
-    color: rgba(73, 73, 73, 0.418);
+    color: rgba(73, 73, 73, 0.678);
     font-size: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-weight: 200;
+    font-weight: bold;
 }
 
 .subtitle{
@@ -43,7 +43,7 @@ em{
 }
 
 h3{
-    color: rgba(73, 73, 73, 0.418);
+    color: rgba(73, 73, 73, 0.671);
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -87,4 +87,26 @@ tbody tr:nth-child(odd) {
 
 .column-50 {
     width: 50%;
+}
+
+.background-image {
+    position: relative;
+    margin-bottom: 5px;
+    width: 230px;
+    height: 200px;
+    background-position: center;
+}
+
+#background-image-1 {
+    background-image: url('../img/monitor.jpg');
+}
+
+#background-image-2 {
+    background-image: url('../img/graph.jpg');
+}
+
+h4{
+    color: white;
+    font-size: 20px;
+    text-align: left;
 }
