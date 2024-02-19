@@ -19,17 +19,22 @@ header{
 }
 
 h1{
-    font-size: 70px;
+    font-size: 45px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 h2{
-    color: rgba(128, 128, 128, 0.418);
-    font-size: 32px;
+    color: rgba(73, 73, 73, 0.418);
+    font-size: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
     font-weight: 200;
+}
+
+.subtitle{
+    font-size: 10px;
+    margin-top: 0px;
 }
 
 em{
@@ -38,8 +43,8 @@ em{
 }
 
 h3{
-    color: rgba(128, 128, 128, 0.418);
-    font-size: 20px;
+    color: rgba(73, 73, 73, 0.418);
+    font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
     font-weight: 100;
